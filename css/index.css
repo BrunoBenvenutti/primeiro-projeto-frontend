@@ -1,11 +1,4 @@
-/*
-   Parâmetros do body
-*/
 
-
-/*
-   Parâmetros da imagem no topo da página
-*/
 
 
 /*
@@ -52,7 +45,9 @@
 
 }
 
-
+.wrapper{
+    background-color: transparent;
+}
 /*
    Parâmetros dos Cards
 */
