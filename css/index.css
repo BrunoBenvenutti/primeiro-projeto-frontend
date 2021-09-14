@@ -45,8 +45,8 @@
 
 }
 
-.wrapper{
-    background-color: transparent;
+html {
+    background: transparent;
 }
 /*
    Parâmetros dos Cards
