@@ -1,0 +1,25 @@
+.container-fluid {
+    background-color: black;
+    width: 170vh;
+    border-radius: 50px;
+    
+}
+
+.button {
+    padding-top: 100px;
+    padding-left: 450px;
+    padding-bottom: 100px;
+}
+
+.btn-success {
+    background-color: red;
+}
+
+.btn-secondary {
+    background-color: green;
+}
+
+.container-fluid label {
+    color: white;
+    
+}
