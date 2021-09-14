@@ -6,7 +6,7 @@ body, html{
     background-color: transparent;
 
     /* The image used */
-    background-image: url("/imagens/backparallax.svg");
+    background-image: url("imagens/backparallax.svg");
     
   
     /* Full height */
@@ -32,7 +32,7 @@ body, html{
     background-color: transparent;
 
     /* The image used */
-    background-image: url("/imagens/logo1.svg");
+    background-image: url("imagens/logo1.svg");
     
   
     /* Full height */
