@@ -44,6 +44,9 @@
     padding-left: 100px;
 
 }
+.container-fluid{
+    background-color: transparent;
+}
 
 html {
     background: transparent;
